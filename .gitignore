@@ -1,0 +1,26 @@
+# Default-deny: keep source-code history safe for a later public release.
+/*
+!/.gitignore
+!/.gitattributes
+!/.env.example
+!/README.md
+!/LICENSE
+!/AGENTS.md
+!/pipeline.py
+!/export_data.py
+!/test_pipeline.py
+!/export_list.py
+!/test_list.py
+!/requirements.lock.txt
+!/docs/
+/docs/*
+!/docs/assessment-checklist.md
+!/docs/verification.md
+!/docs/agent-worklog.md
+!/wide_data.py
+!/test_wide_data.py
+!/examples/
+/examples/*
+!/examples/README.md
+!/examples/synthetic-restaurants.csv
+!/examples/synthetic-records.json

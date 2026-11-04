@@ -1,0 +1,50 @@
+{
+  "synthetic-a": [
+    {
+      "date": "2000-01-01",
+      "organization": "합성 기관 (실제 기관 아님)",
+      "department": "합성 부서 1",
+      "purpose": "UI 테스트용 합성 기록입니다. 실제 공개 집행 기록이 아니며 예시 링크도 원문이 아닙니다.",
+      "source_url": "https://example.com/"
+    },
+    {
+      "date": "2000-01-02",
+      "organization": "합성 기관 (실제 기관 아님)",
+      "department": "합성 부서 2",
+      "purpose": "UI 테스트용 합성 기록입니다. 실제 공개 집행 기록이 아니며 예시 링크도 원문이 아닙니다.",
+      "source_url": "https://example.com/"
+    },
+    {
+      "date": "2000-01-03",
+      "organization": "합성 기관 (실제 기관 아님)",
+      "department": "합성 부서 3",
+      "purpose": "UI 테스트용 합성 기록입니다. 실제 공개 집행 기록이 아니며 예시 링크도 원문이 아닙니다.",
+      "source_url": "https://example.com/"
+    }
+  ],
+  "synthetic-b": [
+    {
+      "date": "2000-01-01",
+      "organization": "합성 기관 (실제 기관 아님)",
+      "department": "합성 부서 1",
+      "purpose": "UI 테스트용 합성 기록입니다. 실제 공개 집행 기록이 아니며 예시 링크도 원문이 아닙니다.",
+      "source_url": "https://example.com/"
+    },
+    {
+      "date": "2000-01-02",
+      "organization": "합성 기관 (실제 기관 아님)",
+      "department": "합성 부서 2",
+      "purpose": "UI 테스트용 합성 기록입니다. 실제 공개 집행 기록이 아니며 예시 링크도 원문이 아닙니다.",
+      "source_url": "https://example.com/"
+    }
+  ],
+  "synthetic-c": [
+    {
+      "date": "2000-01-01",
+      "organization": "합성 기관 (실제 기관 아님)",
+      "department": "합성 부서 1",
+      "purpose": "UI 테스트용 합성 기록입니다. 실제 공개 집행 기록이 아니며 예시 링크도 원문이 아닙니다.",
+      "source_url": "https://example.com/"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+id,name,address,region,record_count
+synthetic-a,[합성] 예시 식당 A,합성 주소 A (실제 장소 아님),서구,3
+synthetic-b,[합성] 예시 식당 B,합성 주소 B (실제 장소 아님),북구,2
+synthetic-c,[합성] 예시 식당 C,합성 주소 C (실제 장소 아님),동구,1
