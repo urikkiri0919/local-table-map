@@ -24,3 +24,16 @@
 !/examples/README.md
 !/examples/synthetic-restaurants.csv
 !/examples/synthetic-records.json
+
+# Reviewed public code and redacted demo only. Raw/output/private inputs remain denied.
+!/regional_data.py
+!/regional_export.py
+!/test_regional_data.py
+!/test_regional_export.py
+!/build_demo.py
+!/test_publication.py
+!/docs/index.html
+!/docs/presentation.html
+!/docs/.nojekyll
+!/examples/demo-restaurants.csv
+!/examples/demo-records.json
