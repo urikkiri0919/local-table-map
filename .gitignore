@@ -37,3 +37,6 @@
 !/docs/.nojekyll
 !/examples/demo-restaurants.csv
 !/examples/demo-records.json
+
+# User-selected aggregate-only public list; never force-add original/private inputs.
+!/examples/public-restaurants.csv
